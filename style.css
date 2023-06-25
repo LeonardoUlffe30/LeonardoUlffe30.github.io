@@ -719,6 +719,8 @@ footer .containerPrivacy {
         order: 1;
         font-size: 30px;
         margin-top: -25px;
+        width: 130%;
+        text-align: center;
     }
     .containerComoFunciona .dInfoCF p {
         font-size: 22px;
